@@ -1,3 +1,6 @@
 *.exe
 *.vscode
 *.zip
+*.class
+*.DS_Store
+*.gitignore.save
