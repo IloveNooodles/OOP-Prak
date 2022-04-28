@@ -1,4 +1,4 @@
-import java.util.Arrays;
+cimport java.util.Arrays;
 
 public class Driver {
   public static void main(String args[]) {
