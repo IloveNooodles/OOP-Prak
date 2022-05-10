@@ -4,4 +4,5 @@
 *.class
 *.DS_Store
 *.gitignore.save
+*.idea
 materi

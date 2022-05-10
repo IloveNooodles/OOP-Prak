@@ -1,0 +1,3 @@
+a) Chart lagu berubah setiap minggu intinya jadi lebih ending make arrayList
+
+b) klo history order bisa diliat dari dpean atau dari belakang berarti lebih mending make deque
